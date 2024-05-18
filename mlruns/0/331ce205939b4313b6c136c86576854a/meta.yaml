@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Sriram/Projects/MlFlow/mlruns/0/331ce205939b4313b6c136c86576854a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 331ce205939b4313b6c136c86576854a
+run_name: beautiful-skink-148
+run_uuid: 331ce205939b4313b6c136c86576854a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716002320131
+status: 1
+tags: []
+user_id: srira
