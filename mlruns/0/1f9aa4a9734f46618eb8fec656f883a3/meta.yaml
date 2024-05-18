@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Sriram/Projects/MlFlow/mlruns/0/1f9aa4a9734f46618eb8fec656f883a3/artifacts
+end_time: 1715996340533
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f9aa4a9734f46618eb8fec656f883a3
+run_name: sassy-finch-859
+run_uuid: 1f9aa4a9734f46618eb8fec656f883a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715996332303
+status: 3
+tags: []
+user_id: srira

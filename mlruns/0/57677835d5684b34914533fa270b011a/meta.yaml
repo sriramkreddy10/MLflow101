@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Sriram/Projects/MlFlow/mlruns/0/57677835d5684b34914533fa270b011a/artifacts
+end_time: 1715995761559
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 57677835d5684b34914533fa270b011a
+run_name: entertaining-rat-625
+run_uuid: 57677835d5684b34914533fa270b011a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715995753603
+status: 3
+tags: []
+user_id: srira
